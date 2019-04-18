@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com-hlj-admin/com-hlj-admin.iml" filepath="$PROJECT_DIR$/com-hlj-admin/com-hlj-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-hlj-dao/com-hlj-dao.iml" filepath="$PROJECT_DIR$/com-hlj-dao/com-hlj-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hlj-validate.iml" filepath="$PROJECT_DIR$/hlj-validate.iml" />
+    </modules>
+  </component>
+</project>
